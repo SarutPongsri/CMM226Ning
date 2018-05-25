@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "บิงโก", "บิงโก\บิงโก.vcxproj", "{3E97DE7F-303B-4CB1-B49A-998D35E7E032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E97DE7F-303B-4CB1-B49A-998D35E7E032}.Debug|x64.ActiveCfg = Debug|x64
+		{3E97DE7F-303B-4CB1-B49A-998D35E7E032}.Debug|x64.Build.0 = Debug|x64
+		{3E97DE7F-303B-4CB1-B49A-998D35E7E032}.Debug|x86.ActiveCfg = Debug|Win32
+		{3E97DE7F-303B-4CB1-B49A-998D35E7E032}.Debug|x86.Build.0 = Debug|Win32
+		{3E97DE7F-303B-4CB1-B49A-998D35E7E032}.Release|x64.ActiveCfg = Release|x64
+		{3E97DE7F-303B-4CB1-B49A-998D35E7E032}.Release|x64.Build.0 = Release|x64
+		{3E97DE7F-303B-4CB1-B49A-998D35E7E032}.Release|x86.ActiveCfg = Release|Win32
+		{3E97DE7F-303B-4CB1-B49A-998D35E7E032}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D52BA04-D060-48FF-B1D8-EC61FC739220}
+	EndGlobalSection
+EndGlobal
